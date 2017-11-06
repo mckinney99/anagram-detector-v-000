@@ -10,5 +10,5 @@ class Anagram
     @word = word.each do |words|
       words.match(word)
   end
-
-
+end
+end
