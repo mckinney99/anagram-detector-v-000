@@ -11,5 +11,4 @@ class Anagram
       words.match(word)
   end
 
-
-return %w word
+end
